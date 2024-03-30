@@ -7,8 +7,8 @@ define('DB_PASS', 'WUGnRkOreiBTdSyRnZRtYSOabBqZRucA');
 
 define('WEB_STYLE_DARK', true);
 
-define('STEAM_API_KEY', '8679787B13B4A3B83CCAD201E676DEDD');
-define('STEAM_DOMAIN_NAME', 'AAAAA');
+define('STEAM_API_KEY', 'B67D20B29A754AAF859336120B03E82C');
+define('STEAM_DOMAIN_NAME', 'https://cs2wswesite-production.up.railway.app/');
 define('STEAM_LOGOUT_PAGE', '');
 define('STEAM_LOGIN_PAGE', '');
 
