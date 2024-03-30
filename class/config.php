@@ -1,9 +1,9 @@
 <?php
-define('DB_HOST', '127.0.0.1');
-define('DB_PORT', '3306');
-define('DB_NAME', 'cs2');
+define('DB_HOST', 'roundhouse.proxy.rlwy.net');
+define('DB_PORT', '32346');
+define('DB_NAME', 'railway');
 define('DB_USER', 'root');
-define('DB_PASS', 'pC53.D!I(bUi_3*X');
+define('DB_PASS', 'WUGnRkOreiBTdSyRnZRtYSOabBqZRucA');
 
 define('WEB_STYLE_DARK', true);
 
